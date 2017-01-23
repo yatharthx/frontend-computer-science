@@ -17,6 +17,8 @@ A list of Computer Science topics important for a Front-End Developer to learn ð
 - Agile Methods (XP / SOLID / DRY / Conway's Law / ...)
 - Functional Programming
 - HTTP, TCP, IP
+- Caching
+- Optimization Strategies
 
 # Inspiration
 Thanks to the [tweet](https://twitter.com/jdan/status/821004591651319808) by [Jordan Scales](https://github.com/jdan) which inspired to create this curated list of computer science topics that maybe useful for any frontend developer.
